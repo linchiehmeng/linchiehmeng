@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lin-Chieh
 - 👀 I’m interested in food and pharmacoepidemiology
 - 🌱 I’m currently learning R programming 
-- 📫 Message me on Linkedin: https://www.linkedin.com/in/lin-chieh-meng-969aa2247/?locale=en_US
+- 📫 Message me on LinkedIn: https://www.linkedin.com/in/lin-chieh-meng-969aa2247/?locale=en_US
 - ⚡ Fun fact: I love dogs!!
 
 <!---
